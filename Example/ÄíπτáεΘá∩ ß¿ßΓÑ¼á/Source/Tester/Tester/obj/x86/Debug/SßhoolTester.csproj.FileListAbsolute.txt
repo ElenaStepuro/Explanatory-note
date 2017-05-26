@@ -1,0 +1,62 @@
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.exe
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.pdb
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.AddTestForm.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.AdminForm.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.Properties.Resources.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.RegisterForm.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.ResultForm.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.TesterForm.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.TestPicker.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\bin\Debug\ShoolTester.exe
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\bin\Debug\ShoolTester.pdb
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.LoginForm.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\bin\Debug\ShoolTester.exe.config
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.AddQuestion.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.LearnForm.resources
+C:\Users\Bar90\Documents\Visual Studio 2010\Projects\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.ConnectionOptions.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\bin\Debug\ShoolTester.exe.config
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.exe
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.pdb
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\SсhoolTester.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.AddQuestion.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.AddTestForm.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.AdminForm.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.ConnectionOptions.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.LearnForm.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.LoginForm.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.Properties.Resources.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.RegisterForm.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.ResultForm.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.TesterForm.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.TestPicker.resources
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\obj\x86\Debug\SсhoolTester.csproj.GenerateResource.Cache
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\bin\Debug\ShoolTester.exe
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\bin\Debug\ShoolTester.pdb
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\диплом\ShoolTester\ShoolTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\Раб СТОЛ\диплом Тестер\ShoolTester\ShoolTester\bin\Debug\ShoolTester.exe.config
+C:\Users\Sergey\Desktop\Раб СТОЛ\диплом Тестер\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.exe
+C:\Users\Sergey\Desktop\Раб СТОЛ\диплом Тестер\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.pdb
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\bin\Debug\ShoolTester.exe.config
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.exe
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.pdb
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\bin\Debug\ShoolTester.exe
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\bin\Debug\ShoolTester.pdb
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\SсhoolTester.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.AddQuestion.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.AddTestForm.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.AdminForm.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.ConnectionOptions.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.LearnForm.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.LoginForm.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.Properties.Resources.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.RegisterForm.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.ResultForm.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.TesterForm.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\ShoolTester.TestPicker.resources
+C:\Users\Sergey\Desktop\ShoolTester\ShoolTester\obj\x86\Debug\SсhoolTester.csproj.GenerateResource.Cache
